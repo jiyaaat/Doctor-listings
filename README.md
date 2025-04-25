@@ -25,15 +25,15 @@ This page displays a list of doctors with filtering, searching, and sorting func
 ## Requirements
 
 ### 1. **Technology Stack**
-    - **Vite** for fast development and bundling.
-    - **React** for building the user interface.
-    - **TypeScript** for type safety.
-    - **Tailwind CSS** for styling the application.
+    - Vite for fast development and bundling.
+    - React for building the user interface.
+    - TypeScript for type safety.
+    - Tailwind CSS for styling the application.
 
 ### 2. **Functionality**
-    - **Client-Side Filtering**: All filtering, sorting, and searching happen on the client-side after the initial API call.
-    - **URL Query Parameters**: All filters should be shown as query parameters in the URL. Navigation using the browser's back and forward buttons should retain the filters.
-    - **Filter Prioritization**: The filters work in combination, with the first applied filter taking precedence.
+    - Client-Side Filtering: All filtering, sorting, and searching happen on the client-side after the initial API call.
+    - URL Query Parameters: All filters should be shown as query parameters in the URL. Navigation using the browser's back and forward buttons should retain the filters.
+    - Filter Prioritization: The filters work in combination, with the first applied filter taking precedence.
 
 ---
 
