@@ -17,7 +17,7 @@ This page displays a list of doctors with filtering, searching, and sorting func
 - Filters work in combination, with the first applied filter taking precedence.
 
 ### 3. **API Integration**
-    - **API URL**: [https://srijandubey.github.io/campus-api-mock/SRM-C1-25.json](https://srijandubey.github.io/campus-api-mock/SRM-C1-25.json)
+    - API URL: [https://srijandubey.github.io/campus-api-mock/SRM-C1-25.json](https://srijandubey.github.io/campus-api-mock/SRM-C1-25.json)
     - The API provides a list of doctors, which is fetched on the initial load.
     - All filtering, searching, and sorting are handled on the frontend.
     - The applied filters are reflected as query parameters in the URL. Navigating back retains the filters.
